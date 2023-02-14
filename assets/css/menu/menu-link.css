@@ -5,6 +5,7 @@
 }
 .menu__link.activo {
   color: #333333;
+  font-weight: 700;
 }
 .menu__link:hover {
   text-decoration: underline;
